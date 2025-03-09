@@ -1,0 +1,21 @@
+{
+  "name": "transcription-tools-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Transcription Tools providing repair, formatting, and summarization capabilities",
+  "main": "build/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && chmod +x build/index.js",
+    "start": "node build/index.js",
+    "dev": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mcp", "transcription", "repair", "formatting", "summary"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  }
+}
