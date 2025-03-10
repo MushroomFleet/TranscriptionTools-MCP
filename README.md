@@ -1,5 +1,7 @@
 # TranscriptionTools MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@MushroomFleet/transcriptiontools-mcp)](https://smithery.ai/server/@MushroomFleet/transcriptiontools-mcp)
+
 An MCP server providing intelligent transcript processing capabilities, featuring natural formatting, contextual repair, and smart summarization powered by Deep Thinking LLMs.
 
 ## Available MCP Tools
@@ -12,6 +14,14 @@ This MCP server exposes four powerful tools for transcript processing:
 4. **summary_text** - Generates intelligent summaries using ACE cognitive methodology
 
 ## Installation
+
+### Installing via Smithery
+
+To install Transcription Tools for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@MushroomFleet/transcriptiontools-mcp):
+
+```bash
+npx -y @smithery/cli install @MushroomFleet/transcriptiontools-mcp --client claude
+```
 
 1. Clone this repository:
 ```bash
