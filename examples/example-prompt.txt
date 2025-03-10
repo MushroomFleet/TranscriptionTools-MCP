@@ -1,0 +1,1 @@
+i need to use the transcription tool with @/source/ruined.txt creating a new file named for each stage, with the filename prefix matching the original filename, writing all saved files in text format in the /output/ folder which should be created if it does not exist
