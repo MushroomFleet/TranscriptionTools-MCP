@@ -4,6 +4,10 @@
 
 An MCP server providing intelligent transcript processing capabilities, featuring natural formatting, contextual repair, and smart summarization powered by Deep Thinking LLMs.
 
+<a href="https://glama.ai/mcp/servers/in1wo7l928">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/in1wo7l928/badge" alt="TranscriptionTools Server MCP server" />
+</a>
+
 ## Available MCP Tools
 
 This MCP server exposes four powerful tools for transcript processing:
