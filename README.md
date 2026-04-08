@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mushroomfleet-transcriptiontools-mcp-badge.png)](https://mseep.ai/app/mushroomfleet-transcriptiontools-mcp)
+
 # TranscriptionTools MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@MushroomFleet/transcriptiontools-mcp)](https://smithery.ai/server/@MushroomFleet/transcriptiontools-mcp)
